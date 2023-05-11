@@ -12,7 +12,7 @@ adding a way for users to save, edit and delete multiple templates as well as
 query the Edamame API to bring up random recipes based on the ingredients
 they entered.
 
-You can find the code for this app in my starred projects, it's name is FeedMe!
+You can find the code for this app in my starred repositories, it's name is FeedMe!
 
 Currently, I am learning React, Next.js, PostgreSQL and Prisma using online
 tutorial videos and other resources.
