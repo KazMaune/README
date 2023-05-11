@@ -2,6 +2,7 @@ Hello there, I’m Kaz, I’m a junior software engineer and I just recently gra
 from LaunchCode's web dev boot camp. I enjoy developing applications that
 use Typescript and Angular though I am eager to learn any JavaScript
 framework.
+
 After I went into their Liftoff program, I built a full-stack project with a team of 6,
 which eventually dwindled to 4. Our app utilized Typescript, Angular and
 Bootstrap for the front-end and Java, Spring Boot, Hibernate ORM and Json web
@@ -10,8 +11,10 @@ our API calls to our back-end, setting up our user auth in the front-end, and ev
 adding a way for users to save, edit and delete multiple templates as well as
 query the Edamame API to bring up random recipes based on the ingredients
 they entered.
+
 Currently, I am learning React, Next.js, PostgreSQL and Prisma using online
 tutorial videos and other resources.
+
 I would enjoy a role that is front-end focused but I am eager to learn more and
 delve into the back-end for a full stack role.
 
