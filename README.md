@@ -13,7 +13,7 @@ query the Edamame API to bring up random recipes based on the ingredients
 they entered.
 
 Here is a link to the deployed frontend version! It is currently a wip as I am learning AWS to deploy it with a backend, too. 
-https://feedme-bef19.web.app/feed-me-now
+https://feedme-bef19.web.app
 
 You can find the code for this app in my starred repositories, it's name is FeedMe!
 
